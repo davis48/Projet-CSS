@@ -1,0 +1,30 @@
+.nav {
+  text-align: center;
+  font-family: roboto;
+}
+
+.paragraphe {
+  color: black;
+  font-size: medium;
+  background-color: cornsilk;
+  font-style: italic;
+  border: 10px;
+  border-radius: 10%;
+}
+
+.title {
+  color: bisque;
+  font-size: 35px;
+  font-weight: bold;
+  font-style: oblique;
+  text-align: center;
+  background-color: cornflowerblue;
+}
+
+.table {
+  background-color: aliceblue;
+  font-style: italic;
+  font-size: medium;
+  border: 10px solid;
+  border-radius: 10px;
+}/*# sourceMappingURL=Styles.css.map */
